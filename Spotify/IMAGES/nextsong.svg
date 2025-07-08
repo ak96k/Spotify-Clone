@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" width="24px" height="24px">
+  <!-- Right Triangle (Next Button) -->
+  <path d="M13 12L6 6v12l7-6z" />
+  <!-- Vertical Line -->
+  <rect x="16" y="6" width="2" height="12" />
+</svg>
